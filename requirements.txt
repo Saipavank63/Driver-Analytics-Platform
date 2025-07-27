@@ -1,0 +1,8 @@
+streamlit
+pyspark
+scikit-learn
+joblib
+dbt-core
+apache-airflow
+pandas
+delta-spark
