@@ -1,4 +1,4 @@
-# 🚘 Driver Analytics Platform
+# 🚐 Driver Analytics Platform
 
 This project focuses on analyzing real-time vehicle telemetry to enable **AI-powered driver risk scoring** for applications such as insurance, fleet management, and safety monitoring.
 
